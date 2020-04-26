@@ -3,3 +3,4 @@ Gitを保存します
 git add
 git commit
 git remove
+git status
